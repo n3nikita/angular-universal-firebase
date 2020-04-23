@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "ssr-firebase-1234"
+  },
+  "targets": {
+    "ssr-firebase-1234": {
+      "hosting": {
+        "angular-universal-firebase": [
+          "ssr-firebase-1234"
+        ]
+      }
+    }
+  }
+}
